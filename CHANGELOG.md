@@ -3,6 +3,7 @@
 ### Bugfixes
 
 - [#2869](https://github.com/influxdb/influxdb/issues/2869): Adding field to existing measurement causes panic
+- [#2865](https://github.com/influxdb/influxdb/pull/2865) -- Return an empty set of results if database does not exist in shard metadata.
 
 ## v0.9.0-rc33 [2015-06-09]
 
